@@ -8481,11 +8481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ayten\\Desktop\\ASP-Bikin\\ASP-Bikin\\ASP-Bikin.csproj",
+      "projectUniqueName": "C:\\Users\\Ayten\\Desktop\\Bikin Project\\ASP-Bikin\\ASP-Bikin\\ASP-Bikin.csproj",
       "projectName": "ASP-Bikin",
-      "projectPath": "C:\\Users\\Ayten\\Desktop\\ASP-Bikin\\ASP-Bikin\\ASP-Bikin.csproj",
+      "projectPath": "C:\\Users\\Ayten\\Desktop\\Bikin Project\\ASP-Bikin\\ASP-Bikin\\ASP-Bikin.csproj",
       "packagesPath": "C:\\Users\\Ayten\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ayten\\Desktop\\ASP-Bikin\\ASP-Bikin\\obj\\",
+      "outputPath": "C:\\Users\\Ayten\\Desktop\\Bikin Project\\ASP-Bikin\\ASP-Bikin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

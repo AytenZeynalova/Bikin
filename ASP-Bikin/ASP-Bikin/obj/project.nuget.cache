@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5sb1+ACjiWYvi57zWkqxOK4Ao6PxRlQoSzIKsv7z+pxxsdfzzMUkOuHuhKLJP0jUEfXrx8V/qKzqWnMXIYCRng==",
+  "dgSpecHash": "KrdoE65F7SOTVvAbw3T1L3u+u4w1Bp5erefHpeE5lZ7Bn30S5TI/SpDcXmhHmEtlNKFJb2aqswSRzJleIMW9kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ayten\\Desktop\\ASP-Bikin\\ASP-Bikin\\ASP-Bikin.csproj",
+  "projectFilePath": "C:\\Users\\Ayten\\Desktop\\Bikin Project\\ASP-Bikin\\ASP-Bikin\\ASP-Bikin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ayten\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Ayten\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
