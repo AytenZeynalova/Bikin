@@ -1,0 +1,202 @@
+.BikinNav {
+  background-color: #f6f7ff;
+}
+
+.BikinNav .LogoNav {
+  font-weight: bold;
+  color: #2d405f;
+}
+
+.BikinNav .LogoNav:hover {
+  color: #2d405f;
+}
+
+.BikinNav .navbarlis .navbar-nav .nav-item .active {
+  color: #3b4ef8 !important;
+}
+
+.BikinNav .navbarlis .navbar-nav .nav-item .nav-link {
+  font-weight: 600;
+  color: #2d405f;
+  margin-left: 12px;
+}
+
+.BikinNav .navbarlis .navbar-nav .nav-item .nav-link:hover {
+  color: #3b4ef8;
+}
+
+.BikinNav .navbarlis button {
+  background-color: #e2e5fe;
+  color: #3b4ef8;
+  font-weight: 600;
+  padding: 8px 30px;
+}
+
+.BikinNav .navbarlis button:hover {
+  background-color: #3b4ef8;
+  color: white;
+}
+
+.website-with-bikin {
+  text-align: center;
+}
+
+.website-with-bikin h1 {
+  width: 100%;
+  color: #2d405f;
+  font-weight: bolder;
+  margin-top: 100px;
+  font-size: 50px;
+}
+
+.website-with-bikin h3 {
+  width: 100%;
+  color: #2d405f;
+}
+
+.website-with-bikin button {
+  background-color: #3b4ef8;
+  color: white;
+  padding: 10px 30px;
+  display: block;
+  margin: 0 auto;
+}
+
+.website-with-bikin button:hover {
+  background-color: #1e31d6;
+}
+
+.website-with-bikin .imgdiv {
+  width: 60%;
+  margin-top: 3%;
+  margin-left: 21%;
+}
+
+.website-with-bikin .imgdiv img {
+  width: 100%;
+}
+
+.about-us {
+  color: white;
+  background-color: #466393;
+  margin-top: 3%;
+}
+
+.about-us i {
+  color: #b6bdfc;
+  display: block;
+  font-size: 30px;
+}
+
+.about-us h4 {
+  display: inline-block;
+}
+
+.about-us p {
+  display: inline-block;
+}
+
+.about-us button {
+  background-color: #4f6b98;
+  padding: 7px 37px;
+}
+
+.about-us button:hover {
+  background-color: #5a74a1;
+  color: white;
+}
+
+.iconsec {
+  background-color: #f6f7ff;
+}
+
+.iconsec img {
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  padding: 30px 0px;
+  width: 40%;
+}
+
+.iconsec img:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.services {
+  background-color: #2d405f;
+  text-align: center;
+}
+
+.services h2 {
+  font-weight: bolder;
+  margin-top: 5%;
+  color: white;
+}
+
+.services p {
+  color: white;
+  font-size: larger;
+}
+
+.services .col-md-3 {
+  margin-top: 2%;
+  padding-bottom: 5%;
+}
+
+.services .col-md-3 i {
+  margin-top: 15%;
+  font-size: xx-large;
+}
+
+.services .col-md-3 p {
+  color: #4d4d4d;
+  font-size: 15px;
+  padding: 10px 5px;
+}
+
+.contact {
+  text-align: center;
+  margin-top: 4%;
+  background-color: #f6f8fb;
+}
+
+.contact h2 {
+  color: #2d405f;
+  font-weight: bold;
+  margin-top: 4%;
+}
+
+.contact p {
+  font-size: 18px;
+  color: #535353;
+  margin-top: 1%;
+}
+
+.contact i {
+  color: #3b4ef8;
+  font-size: 25px;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+.contact .col-md-12 {
+  margin-bottom: -20px;
+}
+
+.footersec .footerp {
+  color: #4e6fa4;
+  font-size: smaller;
+}
+
+.footersec .footera {
+  color: gray;
+}
+
+.footersec .footera:hover {
+  color: blue;
+}
+
+.footersec .footercopyright {
+  background-color: #f1f3ff;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,223 @@
+.BikinNav{
+    background-color: #f6f7ff;
+    .LogoNav{
+        font-weight:bold;
+        color: rgb(45, 64, 95);
+
+        &:hover{
+        color: rgb(45, 64, 95);
+
+        }
+    }
+
+    
+    .navbarlis{
+        
+        .navbar-nav{
+            .nav-item{
+                .active{
+                    color: rgb(59, 78, 248) !important;
+                }
+                .nav-link{
+                    font-weight: 600;
+                    color: rgb(45, 64, 95);
+                    margin-left: 12px;
+                   &:hover{
+                    color: rgb(59, 78, 248) ;
+
+                   }
+                   
+                }
+            }
+        }
+
+        button{
+            background-color: rgb(226, 229, 254);
+            color:rgb(59, 78, 248) ;
+            font-weight: 600;
+            padding: 8px 30px;
+            &:hover{
+                background-color: rgb(59, 78, 248);
+                color: white;
+            }
+        }
+            
+    }
+    
+}
+
+.website-with-bikin{
+text-align: center;
+    h1{
+        width: 100%;
+
+color: rgb(45, 64, 95);
+font-weight: bolder;
+margin-top: 100px;
+font-size: 50px;
+    }
+    h3{
+        width: 100%;
+        color: rgb(45, 64, 95);
+
+    }
+    button{
+        background-color: rgb(59, 78, 248);
+        color: white;
+        padding: 10px 30px;
+        display: block;
+        margin: 0 auto;
+
+        &:hover{
+            background-color: rgb(30, 49, 214);
+
+        }
+    }
+
+    .imgdiv{
+        width: 60%;
+        margin-top: 3%;
+        margin-left: 21%;
+        img{
+            width: 100%;
+        }
+    }
+   
+}
+
+.about-us{
+    color: white;
+    background-color: rgb(70, 99, 147);
+    margin-top: 3%;
+
+    i{
+        color: rgb(182, 189, 252);
+        display: block;
+        font-size: 30px;
+    }
+
+    h4{
+        display: inline-block;
+
+    }
+
+    p{
+        display: inline-block;
+
+    }
+    button{
+background-color: rgb(79, 107, 152);
+padding: 7px 37px;
+&:hover{
+    background-color: rgb(90, 116, 161);
+    color: white;
+}
+    }
+}
+
+.iconsec{
+    background-color: rgb(246, 247, 255);
+    img{
+        transition: 0.5s;
+        padding: 30px 0px;
+        width: 40%;
+
+        &:hover{
+            transform: scale(1.2);
+        }
+    }
+}
+
+.services{
+    background-color: rgb(45, 64, 95);
+    text-align: center;
+    h2{
+        font-weight: bolder;
+        margin-top: 5%;
+        color: white;
+    }
+    p{
+        color: white;
+        font-size: larger;
+
+
+    }
+
+
+    .col-md-3{
+        margin-top: 2%;
+        padding-bottom: 5%;
+        
+
+        
+
+        i{
+            margin-top: 15%;
+            font-size: xx-large;
+        }
+        p{
+            color: rgb(77, 77, 77);
+            font-size:15px;
+            
+            padding: 10px 5px;
+        }
+    }
+
+
+    
+}
+
+.contact{
+    text-align: center;
+    margin-top: 4%;
+
+    background-color: rgb(246, 248, 251);
+
+    h2{
+
+        color: rgb(45, 64, 95);
+        font-weight: bold;
+        margin-top: 4%;
+    }
+    p{
+        font-size: 18px;
+        color: rgb(83, 83, 83);
+        margin-top: 1%;
+    }
+
+    i{
+        color: rgb(59, 78, 248);
+        font-size: 25px;
+        padding: 5px;
+        margin-top: 5px;
+    }
+
+    .col-md-12{
+        
+        margin-bottom: -20px;
+    }
+}
+
+
+.footersec{
+    .footerp{
+        color: rgb(78, 111, 164);
+        font-size: smaller;
+    }
+
+    .footera{
+       
+      
+           color: gray;
+
+           &:hover{
+               color: blue;
+           }
+       
+
+    }
+
+    .footercopyright{
+        background-color: rgb(241, 243, 255);
+    }
+}
