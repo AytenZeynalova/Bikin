@@ -14,6 +14,6 @@ namespace ASP_Bikin.DAL
 
         }
 
-        DbSet<Services> Services { get; set; }
+        public DbSet<Services> Services { get; set; }
     }
 }
